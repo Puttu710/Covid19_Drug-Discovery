@@ -1,0 +1,2 @@
+# Covid19_Drug-Discovery
+Covid19 is a pandemic, world is facing, currently one of the most talked points across the world which seems to be affecting people across the globe at an alarming rate. Also, there is no Proper medicine\Drug to cure this. So, our objective is to prepare a machine learning model that can be used to propose potential novel effective drugs to fight SARS-CoV-2, the virus responsible for COVID-19.
